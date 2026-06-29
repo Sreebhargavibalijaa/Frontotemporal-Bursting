@@ -1,0 +1,4 @@
+model,test_accuracy,energy_pj,energy_ratio
+ResNet-8 (ANN),64.47,2447297740.7999997,1.0
+QuSpike-V (random),44.04,99607.77216000001,24569.345220058774
+QuSpike-V (bio),43.32,90381.73824,27077.34757547411
